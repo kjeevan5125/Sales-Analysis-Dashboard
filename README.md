@@ -4,7 +4,7 @@ An interactive sales analysis dashboard built using **Power BI and Excel** to an
 
 ## Dashboard Preview
 
-<img width="1372" height="773" alt="DashBoard" src="https://github.com/user-attachments/assets/d2973c9d-051b-479c-8db9-16493f3ae0b6" />
+![Sales Analysis Dashboard](DashBoard.png)
 
 
 ## Project Overview
